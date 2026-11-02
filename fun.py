@@ -1,2 +1,2 @@
 print("Hello World")
-print("This is a fun Python script!")
+print("This is not a fun Python script!")
